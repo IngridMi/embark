@@ -78,7 +78,7 @@
     "core-js": "3.4.3"
   },
   "devDependencies": {
-    "ajv": "6.10.2",
+    "ajv": "6.12.3",
     "chai": "4.2.0",
     "embark-solo": "^6.0.0",
     "eslint": "6.8.0",
